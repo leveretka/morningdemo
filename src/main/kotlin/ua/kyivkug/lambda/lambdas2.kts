@@ -6,10 +6,10 @@ fun main2() {
             println(i)
     }.start()
 
-//    MyThread { ->
-//        for (i in 1..100)
-//            print(i)
-//    }.start()
+    MyThread (Runnable {
+        for (i in 1..100)
+            print(i)
+    }).start()
 
     Thread.sleep(2000)
 }

@@ -1,6 +1,6 @@
-package demo
+package ua.kyivkug
 
-val (name, age) = Person("Margo", 22)
+val (name, age) = ua.kyivkug.Person("Margo", 22)
 
 println(name)
 println(age)

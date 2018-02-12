@@ -1,4 +1,4 @@
-package demo
+package ua.kyivkug
 
 import kotlin.math.sqrt
 

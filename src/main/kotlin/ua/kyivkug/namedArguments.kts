@@ -1,4 +1,4 @@
-package demo
+package ua.kyivkug
 
 fun sayHelloTo(name: String, prefix: String = "!", times: Int = 1) {
     for (i in 0 until times)

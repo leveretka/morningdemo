@@ -1,4 +1,4 @@
-package demo
+package ua.kyivkug
 
 println(f ("1", z = 42))
 
